@@ -4,7 +4,7 @@
 
   
 <ul>Current Regressions and Scripts
-  <li>Linear and Reading the Ordinary Least Squares Summary 
+  <li>Linear and Reading the Ordinary Least Squares Summary <br>
   <img src="https://github.com/pentagonalprism/Regressions/blob/main/linearregression.png?raw=true">
   </li>
 </ul>
