@@ -3,7 +3,7 @@
 <p> A Quick Guide to Regressions and Their Use Cases <br>
 
   
-<ul>Current Regressions
+<ul>Current Regressions and Scripts
   <li>Linear and Reading the Ordinary Least Squares Summary </li>
 </ul>
   </p>
