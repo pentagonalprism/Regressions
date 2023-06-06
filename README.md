@@ -1,4 +1,4 @@
-<h2>Quick Guide to Regressions<h2>
+<h2>Quick Guide to Regressions</h2>
 
 <p> A Quick Guide to Regressions and Their Use Cases <br>
 
